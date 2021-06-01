@@ -1,5 +1,6 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/81262569/120336502-cc31de00-c2c8-11eb-8dea-3bf69346d404.png)
+![image](https://github.com/sara2708/sara2708/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!--
