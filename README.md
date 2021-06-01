@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Sanke animation](https://github.com/sara2708/raw/output/github-contribution-grid-snake.svg)
+![image](https://user-images.githubusercontent.com/81262569/120336502-cc31de00-c2c8-11eb-8dea-3bf69346d404.png)
+
 
 <!--
 **sara2708/sara2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
