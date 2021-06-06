@@ -22,6 +22,9 @@
 
 
   ![Snake animation](https://github.com/sara2708/sara2708/blob/output/github-contribution-grid-snake.svg)
+ <br>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sara2708&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 </div>
 
