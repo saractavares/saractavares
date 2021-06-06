@@ -12,6 +12,7 @@
   <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
+ ##
 
 <div> 
   <a href="https://instagram.com/sara.t.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -30,7 +31,8 @@
  - 💬 Pode me perguntar sobre o que quiser! 
       <br>(en) You able to ask me about everything you want
  <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sara2708&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sara2708&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
 </div>
 
