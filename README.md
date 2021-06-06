@@ -19,16 +19,16 @@
   <a href="https://www.linkedin.com/in/saratavares2708" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <br>
  - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-      (en) I'm student of technology
+     <br> (en) I'm student of technology
  <br>
 - 🌱 Meu foco de estudos no momento é ciência de Dados
-      (en) I’m currently learning about data science
+      <br>(en) I’m currently learning about data science
  <br>
 - 🤔 Estou procurando uma colocação no mercado de trabalho para aplicar meus conhecimentos adquiridos e absorver novos conhecimentos, todos ganhamos!
-      (en) I'm looking for a job placement to apply my acquired knowledge and absorb new knowledge, we all win!
+      <br>(en) I'm looking for a job placement to apply my acquired knowledge and absorb new knowledge, we all win!
  <br>
  - 💬 Pode me perguntar sobre o que quiser! 
-      (en) Ypu able to ask me about everything you want
+      <br>(en) You able to ask me about everything you want
  <br>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sara2708&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
 
