@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Sara!
 
- <div>
+ <div align=center>
   <a href="https://github.com/saractavares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saractavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saractavares&layout=compact&langs_count=16&theme=dracula"/>
@@ -14,25 +14,24 @@
 
  ##
 
-<div> 
+ <div align=center> 
   <a href="https://instagram.com/dadososfatos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: sara27082011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saractavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
  <br>
- 
- ##
- 
+ <div align=left>
  - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
      <br> (en) I'm student of technology
-- 🌱 Meu foco de estudos no momento é ciência de Dados
+<br>- 🌱 Meu foco de estudos no momento é ciência de Dados
       <br>(en) I’m currently learning about data science
-- 🤔 Estou procurando uma colocação no mercado de trabalho para aplicar meus conhecimentos adquiridos e absorver novos conhecimentos, todos ganhamos!
+<br>- 🤔 Estou procurando uma colocação no mercado de trabalho para aplicar meus conhecimentos adquiridos e absorver novos conhecimentos, todos ganhamos!
       <br>(en) I'm looking for a job placement to apply my acquired knowledge and absorb new knowledge, we all win!
- - 💬 Pode me perguntar sobre o que quiser! 
+ <br>- 💬 Pode me perguntar sobre o que quiser! 
       <br>(en) You able to ask me about everything you want
+ </div>
  
- ##
-</div>
  <div align=center>
   <h3><b>📍 Contador de Visitantes</b></h3>
 </div>
