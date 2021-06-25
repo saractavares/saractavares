@@ -32,11 +32,16 @@
       <br>(en) You able to ask me about everything you want
  
  ##
-
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saractavares&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-
 </div>
-
+ <div align=center>
+  <h3><b>📍 Contador de Visitantes</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/saractavares/count.svg" />  
+</p>
+![github contribution grid snake animation](https://raw.githubusercontent.com/saractavares/saractavares/output/github-contribution-grid-snake.svg)
 <!--
 **sara2708/sara2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
