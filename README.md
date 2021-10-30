@@ -12,6 +12,8 @@
   <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="sara-Python" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jupyter.svg">
 </div>
+ <img align="center" alt="sara-C" height="30" width="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg">
+</div>
 
  ##
 
