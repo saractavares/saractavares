@@ -10,10 +10,11 @@
   <img align="center" alt="sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="sara-Python" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/jupyter.svg">
+ <img align="center" alt="sara-Python" height="30" width="40" src="https://jupyter.org/assets/main-logo.svg">
+  <img align="center" alt="sara-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
 </div>
- <img align="center" alt="sara-C" height="30" width="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg">
 </div>
+
 
  ##
 
