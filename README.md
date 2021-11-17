@@ -29,8 +29,8 @@
  <div align=left>
  - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
      <br> (en) I'm student of technology
-<br>- 🌱 Meu foco de estudos no momento é ciência de Dados
-      <br>(en) I’m currently learning about data science
+<br>- 🌱 Meu foco de estudos no momento é Python e Análise de Dados!
+      <br>(en) I’m currently learning about Python and Data Analysis!
 <br>- 🤔 Estou procurando uma colocação no mercado de trabalho para aplicar meus conhecimentos adquiridos e absorver novos conhecimentos, todos ganhamos!
       <br>(en) I'm looking for a job placement to apply my acquired knowledge and absorb new knowledge, we all win!
  <br>- 💬 Pode me perguntar sobre o que quiser! 
