@@ -12,6 +12,8 @@
   <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="sara-Python" height="30" width="40" src="https://jupyter.org/assets/main-logo.svg">
   <img align="center" alt="sara-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+ <img align="center" alt="sara-mysql" height="30" width="30" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
+ <img align="center" alt="sara-sql" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
 </div>
 </div>
 
