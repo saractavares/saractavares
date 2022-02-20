@@ -23,7 +23,7 @@
   <a href="https://instagram.com/dadososfatos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: sara27082011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/saractavares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/saractavares" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%58DE1D?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
+  <a href="https://saractavares.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portifólio-%58DE1D?style=for-the-badge&logo=&logoColor=white" target="_blank"></a>
 </div>
  
  <br>
