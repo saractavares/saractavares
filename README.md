@@ -28,12 +28,12 @@
  
  <br>
  <div align=left>
- - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-     <br> (en) I'm student of technology
-<br>- 🌱 Meu foco de estudos no momento é Python e Análise de Dados!
-      <br>(en) I’m currently learning about Python and Data Analysis!
-<br>- 🤔 Estou procurando uma colocação no mercado de trabalho para aplicar meus conhecimentos adquiridos e absorver novos conhecimentos, todos ganhamos!
-      <br>(en) I'm looking for a job placement to apply my acquired knowledge and absorb new knowledge, we all win!
+ - 🔭 Sou Cientista de Dados e estudante de Análise e Desenvolvimento de Sistemas
+     <br> (en) I'm Data Scientist and student of technology
+<br>- 🌱 Meu foco de estudos no momento é Machine Learning com Python e Análise de Dados!
+      <br>(en) I’m currently learning about ML with Python and Data Analysis!
+<br>- 🤔 Estou sempre disponível para aplicar meus conhecimentos e absorver novos conhecimentos, todos ganhamos!
+      <br>(en) I'm always enable to apply my acquired knowledge and absorb new knowledge, we all win!
  <br>- 💬 Pode me perguntar sobre o que quiser! 
       <br>(en) You able to ask me about everything you want
  </div>
