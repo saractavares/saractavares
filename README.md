@@ -2,8 +2,8 @@
 
  <div align="center">
   <a href="https://github.com/saractavares">
-    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=saractavares&show_icons=false&hide_title=true&hide_rank=false&card_width=400&bg_color=291b3e&border_color=291b3e&text_color=dc58c0#gh-dark-mode-only"/>
-    <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=saractavares&hide_title=true&layout=compact&bg_color=291b3e&border_color=291b3e&text_color=dc58c0#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=saractavares&show_icons=false&hide_title=true&hide_rank=false&card_width=400&bg_color=120326&border_color=291b3e&text_color=dc58c0#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=saractavares&hide_title=true&layout=compact&bg_color=120326&border_color=291b3e&text_color=dc58c0#gh-dark-mode-only"/>
   </a>
 
 <div style="display: inline_block"><br>
