@@ -29,7 +29,7 @@
  
  <br>
  <div align=left>
- - 🔭 Sou Engenheira de Dados e estudante de Análise e Desenvolvimento de Sistemas (4/5 semestes)
+ - 🔭 Sou Engenheira de Dados e estudante de Análise e Desenvolvimento de Sistemas (5/5 semestes (Quase lá 😄))
      <br> (en) I'm Data Engineer and student of technology almost degreeded
 <br>- 🌱 Meu foco de estudos no momento é Machine Learning com Python e PySpark!
       <br>(en) I’m currently learning about ML with Python and PySpark!
