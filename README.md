@@ -2,19 +2,11 @@
 
  <div align="center">
   <a href="https://github.com/saractavares">
-    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=saractavares&show_icons=false&hide_title=true&hide_rank=false&card_width=400&bg_color=120326&border_color=291b3e&text_color=dc58c0#gh-dark-mode-only"/>
-    <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=saractavares&hide_title=true&layout=compact&bg_color=120326&border_color=291b3e&text_color=dc58c0#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=saractavares&show_icons=false&hide_title=true&hide_rank=false&card_width=400&bg_color=DEG,009DFF,0237A9,012173,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=saractavares&hide_title=true&layout=compact&bg_color=DEG,00134F,012173,0237A9,009DFF&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
   </a>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="sara-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
- <img align="center" alt="sara-mysql" height="30" width="30" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
- <img align="center" alt="sara-sql" height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
-</div>
+
 </div>
 
 
@@ -49,6 +41,19 @@
 </p>
 
  ![github contribution grid snake animation](https://raw.githubusercontent.com/saractavares/saractavares/output/github-contribution-grid-snake.svg)
+ <div align="center">
+ 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="sara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="sara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="sara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="sara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="sara-C" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png">
+ <img align="center" alt="sara-mysql" height="30" width="30" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
+</div>
+</div>
+
 <!--
 **sara2708/sara2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
