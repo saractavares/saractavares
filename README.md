@@ -2,7 +2,7 @@
 
  <div align="center">
   <a href="https://github.com/saractavares">
-    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=saractavares&show_icons=false&hide_title=true&hide_rank=false&card_width=400&bg_color=DEG,00134F,0237A9,012173,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=saractavares&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=DEG,00134F,0237A9,012173,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
     <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=saractavares&hide_title=true&layout=compact&bg_color=DEG,00134F,012173,0237A9,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
   </a>
 
