@@ -51,8 +51,18 @@
  <img align="center" alt="sara-scala" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Scala-Dark.svg">
   <img align="center" alt="sara-azure" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg">
   
- <img align="center" alt="sara-mysql" height="30" width="30" src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2">
- <img align="center" alt="sara-sql" height="20" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
+ <img align="center" alt="sara-mysql" height="30" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Regex-Dark.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
+ <img align="center" alt="sara-sql" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg">
 </div>
 </div>
 
